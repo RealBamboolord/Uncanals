@@ -2,10 +2,11 @@
   {
     "name": "Automated Engineering",
     "uniques": [
-          "Turn this tile into a [Desert Canal] tile <[1] additional time(s)> <after which this unit is consumed> <in [Desert] tiles> <in tiles without [Hill]> <if it hasn't used other actions yet>",
-          "Turn this tile into a [Plains Canal] tile <[1] additional time(s)> <after which this unit is consumed> <in [Plains] tiles> <in tiles without [Hill]> <if it hasn't used other actions yet>",
-          "Turn this tile into a [Grassland Canal] tile <[1] additional time(s)> <after which this unit is consumed> <in [Grassland] tiles> <in tiles without [Hill]> <if it hasn't used other actions yet>",
-          "Turn this tile into a [Tundra Canal] tile <[1] additional time(s)> <after which this unit is consumed> <in [Tundra] tiles> <in tiles without [Hill]> <if it hasn't used other actions yet>",
-          "Turn this tile into a [Snow Canal] tile <[1] additional time(s)> <after which this unit is consumed> <in [Snow] tiles> <in tiles without [Hill]> <if it hasn't used other actions yet>"
+          "Turn this tile into a [Desert Canal] tile <[1] additional time(s)> <after which this unit is consumed> <in [Desert] tiles> <in [Friendly Land] tiles> <in tiles without [Hill]> <with [0] to [3] neighboring [Canal] tiles> <if it hasn't used other actions yet>",
+          "Turn this tile into a [Plains Canal] tile <[1] additional time(s)> <after which this unit is consumed> <in [Plains] tiles> <in [Friendly Land] tiles> <in tiles without [Hill]> <with [0] to [3] neighboring [Canal] tiles> <if it hasn't used other actions yet>",
+          "Turn this tile into a [Grassland Canal] tile <[1] additional time(s)> <after which this unit is consumed> <in [Grassland] tiles> <in [Friendly Land] tiles> <in tiles without [Hill]> <with [0] to [3] neighboring [Canal] tiles> <if it hasn't used other actions yet>",
+          "Turn this tile into a [Tundra Canal] tile <[1] additional time(s)> <after which this unit is consumed> <in [Tundra] tiles> <in [Friendly Land] tiles> <in tiles without [Hill]> <with [0] to [3] neighboring [Canal] tiles> <if it hasn't used other actions yet>",
+          "Turn this tile into a [Snow Canal] tile <[1] additional time(s)> <after which this unit is consumed> <in [Snow] tiles> <in [Friendly Land] tiles> <in tiles without [Hill]> <with [0] to [3] neighboring [Canal] tiles> <if it hasn't used other actions yet>"
     ]
+  }
 ]
