@@ -39,7 +39,7 @@
 		"name": "Snow Canal",
 		"type": "Water",
    		 "production": 1,
-		"movementCost": 1,
+		"movementCost": 2,
 		"uniques": ["Doesn't generate naturally","Canal"],
 		"occursOn": ["Snow"]
 		"defenceBonus": -0.1
