@@ -4,11 +4,18 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"uniques": [
-          "Turn this tile into a [Desert Canal] tile <[2] times> <after which this unit is consumed> <in [Desert] tiles> <in tiles without [Hill]> <if it hasn't used other actions yet>",
-          "Turn this tile into a [Plains Canal] tile <[2] times> <after which this unit is consumed> <in [Plains] tiles> <in tiles without [Hill]> <if it hasn't used other actions yet>",
-          "Turn this tile into a [Grassland Canal] tile <[2] times> <after which this unit is consumed> <in [Grassland] tiles> <in tiles without [Hill]> <if it hasn't used other actions yet>",
-          "Turn this tile into a [Tundra Canal] tile <[2] times> <after which this unit is consumed> <in [Tundra] tiles> <in tiles without [Hill]> <if it hasn't used other actions yet>",
-          "Turn this tile into a [Snow Canal] tile <[2] times> <after which this unit is consumed> <in [Snow] tiles> <in tiles without [Hill]> <if it hasn't used other actions yet>"
+			"Comment [Can construct and unconstruct Canals]",
+          		"Turn this tile into a [Desert Canal] tile <[2] times> <after which this unit is consumed> <in [Desert] tiles> <in tiles without [Hill]> <if it hasn't used other actions yet>",
+          		"Turn this tile into a [Plains Canal] tile <[2] times> <after which this unit is consumed> <in [Plains] tiles> <in tiles without [Hill]> <if it hasn't used other actions yet>",
+          		"Turn this tile into a [Grassland Canal] tile <[2] times> <after which this unit is consumed> <in [Grassland] tiles> <in tiles without [Hill]> <if it hasn't used other actions yet>",
+          		"Turn this tile into a [Tundra Canal] tile <[2] times> <after which this unit is consumed> <in [Tundra] tiles> <in tiles without [Hill]> <if it hasn't used other actions yet>",
+          		"Turn this tile into a [Snow Canal] tile <[2] times> <after which this unit is consumed> <in [Snow] tiles> <in tiles without [Hill]> <if it hasn't used other actions yet>",
+			
+          		"Turn this tile into a [Desert] tile <[1] times> <after which this unit is consumed> <in [Desert Canal] tiles>",
+          		"Turn this tile into a [Grassland] tile <[1] times> <after which this unit is consumed> <in [Grassland Canal] tiles>",
+          		"Turn this tile into a [Plains] tile <[1] times> <after which this unit is consumed> <in [Plains Canal] tiles>",
+          		"Turn this tile into a [Tundra] tile <[1] times> <after which this unit is consumed> <in [Tundra Canal] tiles>",
+          		"Turn this tile into a [Snow] tile <[1] times> <after which this unit is consumed> <in [Snow Canal] tiles>"
     ],
 		//"requiredTech": "Combustion",
 		"requiredTech": "Steam Power",
