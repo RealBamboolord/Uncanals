@@ -10,7 +10,8 @@
           "Turn this tile into a [Tundra Canal] tile <[2] times> <after which this unit is consumed> <in [Tundra] tiles> <in tiles without [Hill]> <if it hasn't used other actions yet>",
           "Turn this tile into a [Snow Canal] tile <[2] times> <after which this unit is consumed> <in [Snow] tiles> <in tiles without [Hill]> <if it hasn't used other actions yet>"
     ],
-		"requiredTech": "Combustion",
+		//"requiredTech": "Combustion",
+		"requiredTech": "Steam Power",
 		"cost": 300,
 	},
 ]
