@@ -1,0 +1,11 @@
+[
+	{
+		"name": "Panama Canal",
+		"culture": 1,
+		"gold": 4,
+		"greatPersonPoints": {"Great Merchant": 2},
+		"isWonder": true,
+		"uniques": ["[+1 Gold, +1 Production] from every [Canal]","[+20]% [Gold] from Trade Routes"],
+		"requiredTech": "Combustion",
+		"quote": "'Help me I'm needing a quote, Imma ask Arepa' - Bamboolord"
+	},
