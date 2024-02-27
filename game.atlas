@@ -1,0 +1,76 @@
+
+game.png
+size: 1024, 256
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Panama Canal
+  rotate: false
+  xy: 420, 52
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Desert Canal
+  rotate: false
+  xy: 628, 132
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Grassland Canal
+  rotate: false
+  xy: 700, 196
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Panama Canal
+  rotate: false
+  xy: 628, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Plains Canal
+  rotate: false
+  xy: 628, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Snow Canal
+  rotate: false
+  xy: 700, 132
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Tundra Canal
+  rotate: false
+  xy: 772, 196
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Canal Constructor
+  rotate: false
+  xy: 628, 196
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+UnitIcons/Canal Constructor
+  rotate: false
+  xy: 212, 52
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Automate Engineering
+  rotate: false
+  xy: 4, 52
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
