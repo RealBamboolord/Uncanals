@@ -4,7 +4,7 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"uniques": [
-			"Comment [Can construct and unconstruct Canals]",
+			"Comment [Can construct and deconstruct Canals]",
           		"Turn this tile into a [Desert Canal] tile <[2] times> <after which this unit is consumed> <in [Desert] tiles> <in [Friendly Land] tiles> <in tiles without [Hill]> <with [0] to [3] neighboring [Canal] tiles> <if it hasn't used other actions yet>",
           		"Turn this tile into a [Plains Canal] tile <[2] times> <after which this unit is consumed> <in [Plains] tiles> <in [Friendly Land] tiles> <in tiles without [Hill]> <with [0] to [3] neighboring [Canal] tiles> <if it hasn't used other actions yet>",
           		"Turn this tile into a [Grassland Canal] tile <[2] times> <after which this unit is consumed> <in [Grassland] tiles> <in [Friendly Land] tiles> <in tiles without [Hill]> <with [0] to [3] neighboring [Canal] tiles> <if it hasn't used other actions yet>",
